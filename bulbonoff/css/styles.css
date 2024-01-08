@@ -1,0 +1,21 @@
+div{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+.btn1{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: yellow;
+}
+.btn2{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: grey;
+}
